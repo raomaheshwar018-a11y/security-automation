@@ -1,0 +1,11 @@
+{
+    "project_name": "Developing Security Automation Tools with Python for SOC Operations",
+    "api_settings": {
+        "vt_api_key": "YOUR_VIRUSTOTAL_KEY",
+        "timeout": 5
+    },
+    "detection_settings": {
+        "log_file_path": "auth_logs.txt",
+        "threshold": 3
+    }
+}
